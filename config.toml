@@ -1,0 +1,4 @@
+baseURL = "http://southbeckwithfibre.ca"
+languageCode = "en-us"
+title = "South Beckwith Fibre"
+theme = "casper"
