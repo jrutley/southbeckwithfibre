@@ -1,6 +1,6 @@
 ---
 title: "South Beckwith Fibre"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/fibre.jpg'
 description: "Internet at the speed of light"
 ---
 Tired of inferior wireless internet? Fed up with slow speeds, dropped connections, throttling, and bad customer service? The future is around the corner, literally.
